@@ -1,1 +1,1 @@
-This is a basic text file in the master branch
+This is a basic text file in the 'branch' branch
